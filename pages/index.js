@@ -1,9 +1,4 @@
 import Head from 'next/head'
-// import ReactJsonViewCompare from 'react-json-view-compare'
-// import dynamic from 'next/dynamic'
-// const ReactJsonViewCompare = dynamic(() => import('react-json-view-compare'), {
-//   ssr: false,
-// })
 import Sample from '../components/sample'
 
 export default function Home() {
